@@ -5163,10 +5163,6 @@ msgstr "Je mag alleen ^x[0-9]{7}$ invullen."
 msgid "Unix shell"
 msgstr "Unix shell"
 
-#: amelie/members/models.py:347
-msgid "Is web master"
-msgstr "Is webmaster"
-
 #: amelie/members/models.py:348
 msgid "Has signed NDA"
 msgstr "Heeft getekende NDA"
@@ -5848,11 +5844,6 @@ msgstr "%(first_name)s is niet meer actief."
 #, python-format
 msgid "%(first_name)s signed an NDA."
 msgstr "%(first_name)s heeft een NDA getekend."
-
-#: amelie/members/templates/includes/person_data_table.html:157
-#, python-format
-msgid "%(first_name)s is a webmaster."
-msgstr "%(first_name)s is webmaster."
 
 #: amelie/members/templates/includes/person_data_table.html:167
 msgid "No further notes"
